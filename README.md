@@ -1,2 +1,3 @@
 # Slider1
-Trying to make custom slider...
+
+I've been trying to make my custom slider. I will do it better and actual from time to time
